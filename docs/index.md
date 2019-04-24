@@ -1,4 +1,1 @@
-# Screenshots of the extension in action
-![Image of darkmode repo](https://i.imgur.com/xXHMDx7.png)
-![Image of darkmode StackOverflow](https://i.imgur.com/oAscb78.png)
-![Image of darkmode Instagram](https://i.imgur.com/ldaj5ua.jpg)
+![Image of darkmode test](https://i.imgur.com/Ua7ejQR.png)
