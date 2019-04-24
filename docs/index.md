@@ -1,1 +1,1 @@
-![Image of darkmode test](https://i.imgur.com/Ua7ejQR.png)
+![Image of darkmode test](https://i.imgur.com/xXHMDx7.png)
