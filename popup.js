@@ -18,7 +18,7 @@ changeColor.onclick = function(element) {
                         bi = style.backgroundImage.slice(4, -1).replace(/"/g, "");
                         if (bi === '') {
                             var bb = getRGB(all[i], 'background-color');
-                            if (bb[0] + bb[1] + bb[2] > 450)
+                            if (bb[0] + bb[1] + bb[2] > 700)
                                 all[i].style.backgroundColor = "black";
                             all[i].style.setProperty('border', 'inherit', 'important');
                             all[i].style.borderColor = "black";
