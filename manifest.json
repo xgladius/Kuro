@@ -1,8 +1,8 @@
 {
-    "name": "Getting Started Example",
+    "name": "Kuro (黒)",
     "version": "1.0",
-    "description": "Build an Extension!",
-    "permissions": ["activeTab", "declarativeContent", "storage"],
+    "description": "website wide dark mode :^)",
+    "permissions": ["activeTab"],
     "content_scripts" : [
       {
         "js": ["darkPage.js"],
